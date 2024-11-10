@@ -86,3 +86,14 @@ margin-bottom: 50px;
   .d-grid .btn-primary ,.form-label{
     margin-top: 20px;
   }
+  #toggleButton{
+    margin-left:40% ;
+    color: white;
+    background-color: rgb(43, 39, 39);
+    border: none;
+    border-radius: 30%;
+    padding: 10px;
+  }
+  #toggleButton:hover{
+    background-color: rgb(75, 66, 66);
+  }
